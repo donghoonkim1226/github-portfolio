@@ -1,0 +1,68 @@
+body {
+  font-family: 'Hind Siliguri', sans-serif;
+  background-color: orange
+  text-align: center;
+}
+
+.wrapper {
+  margin: 0 auto;
+  width: 32em;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  color: Black;
+  font-weight: bold;
+  font-size: 3em;
+  margin-bottom: 2px;
+}
+
+p {
+  text-align: justify;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2px;
+  width: 32em;
+  position: relative;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+
+#profile-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10em;
+  height: auto;
+  margin-bottom: 2px;
+  margin-top: 2px;
+}
+
+h2 {
+  text-align: center;
+  color: black;
+  font-size: 2em;
+  font-weight: bold;
+  margin-bottom: 2px;
+  margin-top: 2px;
+}
+
+a href {
+  text-align: center;
+}
+
+.social-network{
+  text-align: center;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40px;
+  height: auto;
+  padding-bottom: 5px;
+}
+.social-buttons{
+  width: 40px;
+  height: auto;
+  
+}
