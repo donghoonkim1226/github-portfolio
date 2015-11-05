@@ -1,6 +1,6 @@
 body {
   font-family: 'Hind Siliguri', sans-serif;
-  background-color: orange
+  background-color: white;
   text-align: center;
 }
 
@@ -53,6 +53,7 @@ a href {
 }
 
 .social-network{
+  display: inline;
   text-align: center;
   margin-bottom: auto;
   margin-left: auto;
